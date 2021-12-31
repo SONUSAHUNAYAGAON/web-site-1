@@ -1,0 +1,243 @@
+
+body{
+  height: 2000px;
+}
+.Solution {
+    width: 84px;
+    height: 26px;
+    margin: 40px 40px 108px 83px;
+    font-family: AvenirNext;
+    font-size: 16px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.63;
+    letter-spacing: 0.3px;
+    color: var(--dark-slate-blue);
+  }
+  .bgh1{
+    background-color: #eaeef4;
+    margin: auto;
+  }
+  .Services {
+    width: 76px;
+    height: 26px;
+    margin: 40px 40px 108px;
+    font-family: AvenirNext;
+    font-size: 16px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.63;
+    letter-spacing: 0.3px;
+    color: var(--dark-slate-blue);
+  }
+  .Testimonials {
+    width: 118px;
+    height: 26px;
+    margin: 40px 40px 108px;
+    font-family: AvenirNext;
+    font-size: 16px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.63;
+    letter-spacing: 0.3px;
+    color: var(--dark-slate-blue);
+  }
+  .Contact-us {
+    width: 104px;
+    height: 26px;
+    margin: 40px 150px 108px 40px;
+    font-family: AvenirNext;
+    font-size: 16px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.63;
+    letter-spacing: 0.3px;
+    color: var(--dark-slate-blue);
+  }
+  .menu{
+      margin-top: 10px;
+      
+      
+  }
+  .menu ul {
+      list-style: none;
+      
+  }
+  .menu ul li{
+      display: inline-block;
+
+  }
+  .menu ul li a{
+      padding: 5px;
+      list-style: none;
+      
+  }
+  
+    a{
+        text-align: center;
+        text-decoration: none;
+
+
+   }
+      
+  .boost{
+      margin-top: 60px;
+      float: left;
+      margin-left: 80px;
+      max-width: 400px;
+  }
+  .Group-20 {
+      float: right;
+      margin-top: 60px;
+    margin-right: 200px;
+    object-fit: contain;
+  }
+  .Rectangle {
+      margin-top: 50px;
+      border-color: blue;
+    border-radius: 8px;
+    background-color:blue;
+    color: cornsilk;
+  }
+  .persantage-user{
+      text-align: center;
+
+  }
+  .row{
+    margin-top: 0px;
+    padding-top: 20px;
+  }
+   .ver1{
+    width: 1px;
+    height: 50px;
+    color: black;
+  }
+  .Brand-Growth {
+    font-family: AvenirNext;
+    font-size: 18px;
+   font-weight: bold;
+   color: blue;
+  }
+  .bbbbb:hover{
+    border-radius: 1px solid lightblue;
+    border-color: blue;
+  }
+  .If-you-are-wondering:hover p{
+    border-color: blue;
+
+  }
+  .tea1{
+    border-left: 1px solid rgb(102, 100, 100);
+    justify-content: center;
+    line-height: 20px;
+  }
+  .bg1{
+    background-color: #fbfafa;
+    margin-top: 15px;
+  }
+  .dd6{
+    margin-bottom: 50px;
+  
+  object-fit: contain;
+  }
+  .col-md-4 h6{
+    margin-top: 10px;
+}
+.col-md-4 p{
+  margin-top: 0.5em;
+  max-width: 16em;
+}
+.col-md-4 .btn22:hover{
+  background-color: #ff7b00;
+}
+.active1:hover{
+  padding-top: 5px;
+  border-radius: 25px;
+  box-shadow: 2px 25px 50px 0 rgba(96, 96, 96, 0.1);
+  background-color: var(--white);
+}
+  .active1 span {
+    color: blue;
+  }
+  .active1 span .right-arrow-1{
+    background-color: darkcyan;
+  }
+  .our-services{
+    color: blue;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    }
+    .dddd51{
+      background-color: #fbfafa;
+      padding: 30px;
+      
+    }
+    .What-we-do-for-Your{
+      font-weight: bold;
+      font-size: 25px;
+    }
+    .web1{
+      background-color: #f0f2f5;
+      
+    }
+    .View-More{
+      padding: 10px;
+      background-color: blue;
+      border-radius: 13px;
+      color: cornsilk;
+      
+    }
+    img.Bitmap {
+      max-width: 300px;
+      height: 200px;
+      object-fit: contain;
+     
+    }
+    .btn-read-more{
+      color: blue;
+      font-weight: bold;
+    }
+    .testo-11{
+      margin-top: 50px;
+    }
+    .Testimonials-1{
+      color: blue;
+      font-weight: bold;
+    }
+    .ram-23{
+      justify-content: center;
+      text-align: center;
+      margin: auto;
+      padding: auto;
+      background-color: rgb(196, 196, 216);
+      border-radius: 23px;
+      z-index: -1px;
+      color: cornsilk;
+    }
+    .Bitmap1{
+      justify-content: center;
+      text-align: center;
+     margin-top: 30px;
+     margin-left: 50px;
+     padding: 10px;
+     display: inline;
+     
+      
+    }
+  .footer-5{
+    padding: 60px;
+    border-radius: 23px;
+    background-color: blue;
+    color: cornsilk;
+    justify-content: center;
+    text-align: center;
+  }
+  .footer-base{
+    margin-top: 50px;
+    margin-bottom: 80px;
+  }
